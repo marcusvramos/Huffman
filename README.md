@@ -1,6 +1,6 @@
 # Huffman
 
-### O primeiro program deverá ter:
+### O primeiro programa deverá ter:
 a) Um algoritmo para construção da árvore de Huffman (utilize uma lista encadeada
 ordenada no processo de construção da árvore). A árvore não deverá ter a palavra e sim
 um símbolo (numérico, um código). Os espaços em branco da frase também devem ser
